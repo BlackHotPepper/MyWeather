@@ -4,7 +4,7 @@ You can see my project here: https://mywapp.netlify.app, or you can download the
 The API that I used: https://openweathermap.org/
 <div>
   <a href="https://mywapp.netlify.app">
-    <img src="./myw1.png" target="_blacnk">
+    <img src="./myw1.png" target="_blank">
   </a>
   
 </div>
